@@ -1,15 +1,24 @@
 Introduction
 The Internet is a global network of interconnected networks that exchange data using shared communication standards. It started as ARPANET, a research network that was funded by the US Advanced Research Projects Agency. 
 Its first message was sent between UCLA and the sStanford Research Institute in October 1969.
-The World Wide Web is a seperate layer built on to p of the internet. 
-It was proposed by Tim-Bearners-Lee proprsed at CERN in 1989, combining hypertext, URLs and HTTP so that linked so linked documents could be accessed from any computer anywhere and on any computer.
-There is always complications in differentiating betwwen the Internet and the Web, the difference is that the Internet is the infastructurue and the the Web is the application running it.
+The World Wide Web is a seperate layer built on top of the internet. 
+It was proposed by Tim-Bearners-Lee proprsed at CERN in 1989, combining hypertext, URLs and HTTP so that linked documents could be accessed from any computer anywhere and on any computer.
+There is always complications in differentiating between the Internet and the Web, the difference is that the Internet is the infastructurue and the the Web is the application running it.
 
-In the 1960s, cpomputers were scarce, expensive and incompatible.
-Researchers that were funded by ARPA each needed access tomachines and software at other branches or institutions, and the only option was duplicating costly hardware or travelling to another place to access info.
+In the 1960s, computers were scarce, expensive and incompatible.
+Researches that were funded by ARPA each needed access to machines and software at other branches or institutions, and the only option was duplicating costly hardware or travelling to another place to access info.
 The main design idea of ARPANET was to enable resource sharing across distant computers. 
-Its tecnical idea was Packet Switching, which is a networking method that breaks data into small units called packets, routes each packet independently across shared network paths, and reassembles them at the destination.
+Its technical idea was Packet Switching, which is a networking method that breaks data into small units called packets, routes each packet independently across shared network paths, and reassembles them at the destination.
 A very important misinformation that needs to be cleared was that the ARPANET was uilt to survive Nuclear attack, but that was the motivation for Baran's(developed Packet Switching) earler work, not the actual purpose of ARPANET itself.
 As time went by, more networks appeared, and a second problem emerged.
 
-Each one, whether s university, radio or satellite network, followed 
+Each one, whether a university, radio or satellite network, followed its own rule for formatting and addressing data, as a result to this computers on different networks could not communicate with each other.
+Vint Cerf and Robert kahn's TCP/IP(TCP/IP is the set of rules that computers use to send data to each other across the Internet.), published in 1974 and adopted across ARPANET in january 1983, solved this by letting any network join a common "network of networks". 
+As a result of this upgrade, through the 1980s academic networks broadened access.
+
+The Web then solved a third problem which was that the internet coiuld only be accessed by specialist and difficult for non-specialists to navigate. 
+Berner-Lee's first website went live in 1991, CERN released the technology royalty-free in1993 and the mosaic browser made it accessible to average users.
+
+In computing history, this progresseion is a case study in how open, layered standards allow a system to scale for beyond its designers expectations. 
+As of recent, more than 5 billion people are online and the intrnet supports cloud computing, e-commerce, finance and public work.
+That reach is why the development can be examined from two complementary viewpoints(Societal viewpoint and Scientific viewpoint), which this research takes turn in explaining

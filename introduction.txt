@@ -23,3 +23,8 @@ In computing history, this progresseion is a case study in how open, layered sta
 As of recent, more than 5 billion people are online and the intrnet supports cloud computing, e-commerce, finance and public work.
 That reach is why the development can be examined from two complementary viewpoints(Societal viewpoint and Scientific viewpoint), which this research takes turn in explaining
 
+Refrences:
+Packet switching: Baran, P. (1964) 'On distributed communications networks', IEEE Transactions on Communications Systems,
+Abbate, J. (1999) Inventing the Internet. Cambridge
+Berners-Lee, T. and Fischetti, M. (1999) Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web
+Royalty-free release (1993): CERN (1993) Statement concerning CERN W3 software release into public domain, 30 April. CERN's document server hosts this.

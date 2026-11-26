@@ -22,4 +22,4 @@ Berner-Lee's first website went live in 1991, CERN released the technology royal
 In computing history, this progresseion is a case study in how open, layered standards allow a system to scale for beyond its designers expectations. 
 As of recent, more than 5 billion people are online and the intrnet supports cloud computing, e-commerce, finance and public work.
 That reach is why the development can be examined from two complementary viewpoints(Societal viewpoint and Scientific viewpoint), which this research takes turn in explaining
-hi
+
